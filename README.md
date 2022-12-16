@@ -8,8 +8,6 @@
 
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit1729)](https://github.com/sumit1729/github-readme-stats)
 
-
-![](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 <!---
 sumit1729/sumit1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
