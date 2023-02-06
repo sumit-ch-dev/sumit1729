@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer)](https://git.io/typing-svg)
-- 👀 I’m interested in Backend Web Development and Machine Learning...
-- 🌱 I’m currently learning Python-Django and React 
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Python-Django and React/nextJs
 - 💞️ I’m looking to collaborate on Django projects...
 
 
