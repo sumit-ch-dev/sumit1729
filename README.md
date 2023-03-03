@@ -12,7 +12,7 @@ sumit1729/sumit1729 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sumit1729)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumit1729&theme=highcontrast)](https://git.io/streak-stats)
 
 -[LinkedIn Profile] (https://www.linkedin.com/in/sumit-chakraborty-5b7891217/)
 
