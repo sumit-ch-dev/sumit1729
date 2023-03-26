@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
 
-###Skills:
--Frontend: **ReactJs, NextJs, Redux, Tailwindcss, React-Bootstrap, HTML5, CSS3**
--Backend: **Django**
--Database: **SQL(MySql)**  
--Tools: **Git, Github, Vite, Firefox DevTools, Netlify **
+### Skills:
+- Frontend: **ReactJs, NextJs, Redux, Tailwindcss, React-Bootstrap, HTML5, CSS3**
+- Backend: **Django**
+- Database: **SQL(MySql)**  
+- Tools: **Git, Github, Vite, Firefox DevTools, Netlify **
 - 💞️ I’m looking to collaborate on Django and ReactJs projects...
 
 
