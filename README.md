@@ -3,9 +3,9 @@
 
 ### Skills:
 - Frontend: **ReactJs, NextJs, Redux, Tailwindcss, React-Bootstrap, HTML5, CSS3, jQuery**
-- Backend: **Django**
+- Backend: **Django, ExpressJs**
 - Database: **SQL(MySql)**  
-- Tools: **Git, Github, Vite, Firefox DevTools, Netlify**
+- Tools: **Git, Github, Vite, Firefox DevTools, Vercel**
 - 💞️ I’m looking to collaborate on Django and ReactJs projects...
 
 
