@@ -5,7 +5,7 @@
 - Frontend: **ReactJs, NextJs, Redux, Tailwindcss, React-Bootstrap, HTML5, CSS3, jQuery**
 - Backend: **Django, ExpressJs**
 - Database: **SQL(MySql), MongoDB, Mongoose**  
-- Tools: **Git, Github, Vite, Firefox DevTools, Vercel**
+- Tools: **Git, Github, Vite, Firefox DevTools, Vercel, Netlify, Railway**
 - 💞️ I’m looking to collaborate on Django and ReactJs projects...
 
 
