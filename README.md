@@ -22,4 +22,13 @@ You can click the Preview link to take a look at your changes.
 -[LinkedIn Profile](https://www.linkedin.com/in/sumit-chakraborty-5b7891217/)
 
 
+### Projects: 
+
+#### Mailchimp API Newsletter App
+
+Check out [Newsletter-App](https://newsletter-eilfuek56-sumit1729.vercel.app/)
+
+
+
+
 
