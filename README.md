@@ -28,6 +28,12 @@ You can click the Preview link to take a look at your changes.
 
 Check out [Newsletter-App](https://newsletter-eilfuek56-sumit1729.vercel.app/)
 
+#### Daily Journal Blog Website
+
+Blog website built with Express Server and MongoDB
+
+Check out [Daily Journal](https://daily-journal-production-c292.up.railway.app/)
+
 
 
 
