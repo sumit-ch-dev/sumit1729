@@ -2,7 +2,7 @@
 
 
 ### Skills:
-- Frontend: **ReactJs, NextJs, Redux, TailwindCSS, React-Bootstrap, HTML5, CSS3, jQuery, EJS**
+- Frontend: **ReactJs, styled-components, Redux, React-Bootstrap, HTML5, CSS3, jQuery, EJS**
 - Backend: **Django, ExpressJs**
 - Database: **SQL(MySql, Sqlite), MongoDB, Mongoose, Firebase**  
 - Tools: **Git, Github, Vite, Firefox DevTools, Vercel, Netlify, Railway**
