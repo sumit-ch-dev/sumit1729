@@ -2,9 +2,11 @@
 
 
 ### Skills:
+- Languages: **JavaScript, TypeScript**
 - Frontend: **HTML5, CSS3, SCSS, ReactJs, styled-components, Redux, React-Bootstrap, jQuery, EJS**
 - Backend: **Django, ExpressJs**
-- Database: **SQL(MySql, Sqlite), MongoDB, Mongoose, Firebase**  
+- Database: **SQL(MySql, Sqlite), MongoDB, Mongoose, Firebase**
+- Testing Frameworks: **Jest, Enzyme** 
 - Tools: **Git, Github, Vite, Firefox DevTools, Vercel, Netlify, Railway**
 - 💞️ I’m looking to collaborate on Django and ReactJs projects...
 
