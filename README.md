@@ -2,7 +2,7 @@
 
 
 ### Skills:
-- Languages: **JavaScript, TypeScript**
+- Languages: **JavaScript, TypeScript, Python**
 - Frontend: **HTML5, CSS3, SCSS, ReactJs, styled-components, Redux, React-Bootstrap, jQuery, EJS**
 - Backend: **Django, ExpressJs**
 - Database: **SQL(MySql, Sqlite), MongoDB, Mongoose, Firebase**
@@ -41,7 +41,17 @@ E-Commerce application with ReactJs and Firebase
 
 Check out [E-Commerce App](https://cerulean-biscuit-27aba2.netlify.app/)
 
+and [Here](https://sensational-croquembouche-4bc7d6.netlify.app/)
 
+#### URL Shortener Application
+
+Small Web Application using ReactJs 
+
+[url-shortener](https://sumit1729.github.io/url-shortener/)
+
+#### Robo Monster
+
+[Robo-Monster](https://lucky-kheer-55516e.netlify.app/)
 
 
 
